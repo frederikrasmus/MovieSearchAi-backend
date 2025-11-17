@@ -1,4 +1,3 @@
-
 	# 🎬 MovieSearch AI - Backend
 	
 	Denne Spring Boot applikation fungerer som backend-tjeneste for MovieSearch AI frontend. Den aggregerer data fra The Movie Database (TMDB) API'en og genererer AI-drevne filmanbefalinger og opsummeringer via OpenAI API'en.
