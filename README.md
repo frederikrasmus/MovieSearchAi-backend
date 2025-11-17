@@ -21,7 +21,7 @@
 	
 	### Forudsætninger
 	
-	*   **Java 17 (eller nyere):** SDK skal være installeret.
+	*   **Java 21 (eller nyere):** SDK skal være installeret.
 	*   **Maven:** Byggestyringsværktøj, typisk inkluderet med Java IDE'er.
 	*   **En TMDB API-nøgle:**
 	    1.  Opret en konto på [TMDB](https://www.themoviedb.org/signup).
@@ -74,7 +74,7 @@
 	
 	## 💻 Teknologier
 	
-	*   **Java 17:** Programmeringssprog.
+	*   **Java 21:** Programmeringssprog.
 	*   **Spring Boot 3:** Framework for hurtig udvikling af webapplikationer og RESTful API'er.
 	*   **Maven:** Byggestyringsværktøj.
 	*   **Spring WebFlux (WebClient):** Ikke-blokerende HTTP-klient til eksterne API-kald (TMDB, OpenAI).
